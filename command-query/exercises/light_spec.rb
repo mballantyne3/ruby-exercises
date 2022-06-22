@@ -1,5 +1,5 @@
 require 'rspec'
-require_relative 'light'
+require_relative 'light' 
 
 RSpec.describe Light do
   it 'is off' do

@@ -1,4 +1,4 @@
-require 'rspec'
+require 'rspec' 
 require_relative 'beers'
 
 RSpec.describe Beers do

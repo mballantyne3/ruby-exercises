@@ -1,4 +1,4 @@
-require 'rspec'
+require 'rspec' 
 require_relative 'adult'
 
 RSpec.describe Adult do
